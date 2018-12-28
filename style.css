@@ -1,3 +1,7 @@
 h1 {
-font-family: Arial;
+  font-family: Arial;
+}
+
+img {
+  height: 150px;
 }
